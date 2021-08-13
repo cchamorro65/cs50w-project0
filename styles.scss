@@ -1,0 +1,26 @@
+$font-stack:    Helvetica, sans-serif;
+$primary-color: rgb(26, 10, 252);
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+}
+
+p {
+
+color: #000;
+}
+
+.ep {
+    font-family: Verdana;
+    font-size: 14px;
+    color: rgb(71, 78, 64);
+    text-align: justify;
+
+}
+
+.centrar {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+}

@@ -1,0 +1,23 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #1a0afc;
+}
+
+p {
+  color: #000;
+}
+
+.ep {
+  font-family: Verdana;
+  font-size: 14px;
+  color: #474e40;
+  text-align: justify;
+}
+
+.centrar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/*# sourceMappingURL=styles.css.map */
